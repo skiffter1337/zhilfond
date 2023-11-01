@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zhilfond/static/css/main.404d9e78.css",
+    "main.js": "/zhilfond/static/js/main.77841534.js",
+    "static/js/787.28cb0dcd.chunk.js": "/zhilfond/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/zhilfond/index.html",
+    "main.404d9e78.css.map": "/zhilfond/static/css/main.404d9e78.css.map",
+    "main.77841534.js.map": "/zhilfond/static/js/main.77841534.js.map",
+    "787.28cb0dcd.chunk.js.map": "/zhilfond/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404d9e78.css",
+    "static/js/main.77841534.js"
+  ]
+}
