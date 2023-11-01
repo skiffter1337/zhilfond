@@ -1,0 +1,23 @@
+.sideBar {
+  padding: 27px 31px 27px 20px;
+  .searchBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    margin-bottom: 22px;
+  }
+  .result {
+    margin-bottom: 18px;
+  }
+  .resultsBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    .loader {
+      align-self: center;
+    }
+    .noData {
+      margin-top: 10px;
+    }
+  }
+}
